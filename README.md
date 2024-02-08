@@ -2,11 +2,6 @@
 - 🔭 I usually work on backend projects but I also do frontend projects if needed
 - 🌱 I’m currently studying Computer Engineering at FIAP
 
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMBA&show_icons=true&theme=dark&count_private=true)
-![Total Contribution](https://github-readme-streak-stats.herokuapp.com?user=ThProgrammer&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMBA&layout=compact&theme=dark)
-
 ## Some of my knowledge in programming 👨‍💻
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -38,6 +33,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioMBA)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+![Total Contribution](https://github-readme-streak-stats.herokuapp.com?user=ThProgrammer&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMBA&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMBA&layout=compact&theme=dark)
 
 ## Contact me 🔎
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-manoel-bezerra-de-araujo-a3093a223/)
