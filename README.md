@@ -1,6 +1,6 @@
 ## Hi I'm Caio welcome to my GitHub page 👋
 - 🔭 I usually work on backend projects but I also do frontend projects if needed
-- 🌱 I’m currently studying Computer Engineering at FIAP
+- 🌱 I’m currently studying Computer Engineering at FIAP (3/5)
 
 ## Some of my knowledge in programming 👨‍💻
 
