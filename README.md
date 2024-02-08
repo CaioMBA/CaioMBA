@@ -1,9 +1,10 @@
 ## Hi I'm Caio welcome to my GitHub page 👋
 - 🔭 I usually work on backend projects but I also do frontend projects if needed
-- 🌱 I’m currently studying for Computer Engineering at FIAP
+- 🌱 I’m currently studying Computer Engineering at FIAP
 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMBA&show_icons=true&theme=dark&count_private=true)
+![Total Contribution](https://github-readme-streak-stats.herokuapp.com?user=ThProgrammer&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMBA&layout=compact&theme=dark)
 
 ## Some of my knowledge in programming 👨‍💻
