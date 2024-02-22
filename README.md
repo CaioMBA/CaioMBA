@@ -34,7 +34,9 @@
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-![Total Contribution](https://github-readme-streak-stats.herokuapp.com?user=ThProgrammer&theme=tokyonight)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaioMBA&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioMBA&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMBA&layout=compact&theme=dark)
