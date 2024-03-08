@@ -46,3 +46,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiombaraujo@gmail.com)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio.mba)
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/caio-mba)
+[![Spotify](https://img.shields.io/badge/-@Caio_MBA-1ED760?style=for-the-badge&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/caio_mba?si=06e99f57338a410b)](https://open.spotify.com/user/caio_mba?si=06e99f57338a410b)
